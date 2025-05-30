@@ -1,2 +1,2 @@
-# timothycroker.github.io
+# TimothyCroker.github.io
 Website Project
