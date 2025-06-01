@@ -1,5 +1,5 @@
 # My Website Information
-Welcome to the documentation page for my website! ([link](https://timothycroker.github.io/)) :octocat:
+Welcome to the documentation page for my website! ([link](https://timothycroker.github.io/index)) :octocat:
 
 ## What is My Website For?
 >It is a portfolio for my projects, skills, and upcoming projects.
