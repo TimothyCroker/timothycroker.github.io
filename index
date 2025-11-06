@@ -1,63 +1,53 @@
 <!DOCTYPE html>
-<html lang="en"><head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<html lang="en">
+<head>
 <meta charset="UTF-8">
-  <title> Real CV </title>
-  <link rel="stylesheet" href="Real%20CV_files/stylesheet.css">
-  <link rel="icon" type="image/png" sizes="32x32" href="https://users.aber.ac.uk/tic26/CS11010/AFakeCV/images/MimikyuWooperFusion2.ico">
-</head> 
-<body style="background-color:rgb(58, 81, 61);">
-    <h1>Hello, I'm <strong>Timothy</strong>.</h1>
+<title>Timothy's CV</title>
+<link rel="stylesheet" href="Real CV_files/stylesheet.css">
+<link rel="icon" type="image/png" sizes="32x32" href="https://users.aber.ac.uk/tic26/CS11010/AFakeCV/images/MimikyuWooperFusion2.ico">
+</head>
+<body style="background-color:rgb(58, 81, 61); color:white; font-family:Arial, sans-serif;">
+
+    <h1>Hello, I'm <strong>Timothy</strong></h1>
     <hr>
-    <img src="Real%20CV_files/milly-silly-cat.gif" alt="A silly cat" title="Leave that little guy alone..." width="104" height="142">
-    <p><strong>My address: </strong> the void</p>
-    <p><strong>My email: </strong> IEatChalk@yahoomail.com</p>
-    <p><strong>Phone number: </strong> 6942080085</p>
-    <hr>
-    <p><strong>Qualifications: </strong></p>
-    <table>
-        <tbody><tr>
-          <th>A level</th>
-          <th>Result</th>
-        </tr>
-        <tr>
-          <td>Computer Science</td>
-          <td>I passed!</td>
-        </tr>
-        <tr>
-            <td>Maths</td>
-            <td>I passed!</td>
-        </tr>
-        <tr>
-            <td>Chemistry</td>
-            <td>I passed!</td>
-        </tr>
-      </tbody></table>
+
+    <img src="Real CV_files/milly-silly-cat.gif" alt="A cat image" title="Leave that little guy alone..." width="104" height="142">
+
+    <p><strong>Address:</strong> 123 Example Street, City, Country</p>
+    <p><strong>Email:</strong> example.email@gmail.com</p>
+    <p><strong>Phone:</strong> +44 123 456 7890</p>
 
     <hr>
-    <p><strong>Popular Questions:</strong><br>
-        <em>Do you have an education?: </em> Yes!<br>
-        <em>What is your previous employment?: </em> Influencer.
-    </p>
-    <hr>
-    <h2>🗿My references:</h2>
-        <table>
-        <tbody><tr>
-            <th></th>
-            <th>Dad</th>
-            <th>My Discord Server</th>
-        </tr>
-        <tr>
-            <td>Email</td>
-            <td>su8ardaddy@hotmail.com</td>
-            <td>eKittenDating@gmail.com</td>
-            
-        </tr>
-        <tr>
-            <td>Phone Number</td>
-            <td>56785562387562</td>
-            <td>just join the vc</td>
-        </tr>
-        </tbody></table>
+    <h2>Qualifications</h2>
+    <table border="1" cellpadding="5" cellspacing="0">
+        <thead>
+            <tr>
+                <th>Subject</th>
+                <th>Result</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Computer Science</td>
+                <td>B</td>
+            </tr>
+            <tr>
+                <td>Maths</td>
+                <td>C</td>
+            </tr>
+            <tr>
+                <td>Chemistry</td>
+                <td>D</td>
+            </tr>
+        </tbody>
+    </table>
 
-</body></html>
+    <hr>
+    <h2>Experience & Skills</h2>
+    <p><strong>Education:</strong> Completed A-levels in Computer Science, Maths, and Chemistry.</p>
+    <p><strong>Previous Employment:</strong> Internship experience in software development; familiar with Python, C++, and web technologies.</p>
+
+
+
+</body>
+</html>
